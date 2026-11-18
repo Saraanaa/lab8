@@ -13,6 +13,7 @@ java version "22.0.2" 2024-07-16
 Java(TM) SE Runtime Environment (build 22.0.2+9-70)
 Java HotSpot(TM) 64-Bit Server VM (build 22.0.2+9-70, mixed mode, sharing)
 
+mvn -version
 Apache Maven 3.9.11
 Java version: 22.0.2
 OS name: Windows 11, arch: amd64
